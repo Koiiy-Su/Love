@@ -1,0 +1,13 @@
+{
+  "name": "couple-memory-album",
+  "version": "1.0.0",
+  "private": true,
+  "description": "我们的小屋 —— 情侣回忆相册（单文件版）：密码进入 + 多人实时同步",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
